@@ -1,0 +1,10 @@
+requests
+pyjwt
+protobuf==5.27.2
+flask
+google_play_scraper
+psutil
+urllib3
+protobuf-decoder
+pycryptodome
+telebot
